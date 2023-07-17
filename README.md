@@ -4,6 +4,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ggsayumi)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GgSayumicodandoshow=dracula)
+
 
 ## Tecnologia que mais uso meu dia
